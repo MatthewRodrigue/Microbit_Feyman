@@ -1,0 +1,14 @@
+{
+	"folders": [
+		{
+			"path": "../../../../Desktop/Miguel/Practicas de  cursos/FHAR/MICROBIT"
+		},
+		{
+			"name": "Microbit_Feyman",
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "Microbit_Feyman"
+	}
+}
