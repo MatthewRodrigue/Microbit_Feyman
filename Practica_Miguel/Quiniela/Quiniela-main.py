@@ -3,7 +3,6 @@ import random
 
     
 while True:
-    police = True
     valor= random.randrange(3)
     
     if button_a.is_pressed():
